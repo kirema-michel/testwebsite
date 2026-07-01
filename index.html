@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Favicon Lab</title>
+
+    <link rel="icon" id="favicon-32" type="image/svg+xml" sizes="32x32" href="favicons/icon-sun.svg" />
+    <link rel="icon" id="favicon-16" type="image/svg+xml" sizes="16x16" href="favicons/icon-sun.svg" />
+    <link rel="icon" id="favicon-any" type="image/svg+xml" href="favicons/icon-sun.svg" />
+    <link rel="apple-touch-icon" id="apple-touch-icon" href="favicons/icon-sun.svg" />
+    <link rel="manifest" id="site-manifest" href="favicons/site.webmanifest" />
+
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="hero">
+        <p class="eyebrow">Favicon test website</p>
+        <h1>Switch multiple favicons instantly</h1>
+        <p>
+          Use this page to test how browsers pick up favicon variants across tabs,
+          bookmarks, pinned pages, and app shortcuts.
+        </p>
+      </header>
+
+      <section class="panel">
+        <h2>Choose an icon set</h2>
+        <div class="icon-grid" id="icon-grid"></div>
+      </section>
+
+      <section class="panel debug">
+        <h2>Active head tags</h2>
+        <pre id="head-preview" aria-live="polite"></pre>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
