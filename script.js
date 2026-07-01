@@ -1,29 +1,5 @@
 const iconSets = [
   {
-    id: 'icon-sun',
-    label: 'Sun Badge',
-    file: 'favicons/icon-sun.svg',
-    themeColor: '#de5a2a',
-  },
-  {
-    id: 'icon-wave',
-    label: 'Wave Circle',
-    file: 'favicons/icon-wave.svg',
-    themeColor: '#0f8f7a',
-  },
-  {
-    id: 'icon-pixel',
-    label: 'Pixel Tile',
-    file: 'favicons/icon-pixel.svg',
-    themeColor: '#0075be',
-  },
-  {
-    id: 'icon-bolt',
-    label: 'Bolt Frame',
-    file: 'favicons/icon-bolt.svg',
-    themeColor: '#174f32',
-  },
-  {
     id: 'beige-background-check-1',
     label: 'Beige Background Check 1',
     file: 'favicons/Beige achtergrond - vink 1.png',

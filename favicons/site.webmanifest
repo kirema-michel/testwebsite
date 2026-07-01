@@ -7,9 +7,9 @@
   "theme_color": "#de5a2a",
   "icons": [
     {
-      "src": "icon-sun.svg",
+      "src": "Beige achtergrond - vink 1.png",
       "sizes": "any",
-      "type": "image/svg+xml"
+      "type": "image/png"
     }
   ]
 }
