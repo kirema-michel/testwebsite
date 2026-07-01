@@ -23,6 +23,48 @@ const iconSets = [
     file: 'favicons/icon-bolt.svg',
     themeColor: '#174f32',
   },
+  {
+    id: 'beige-background-check-1',
+    label: 'Beige Background Check 1',
+    file: 'favicons/Beige achtergrond - vink 1.png',
+    themeColor: '#8a6f4d',
+  },
+  {
+    id: 'beige-background-1',
+    label: 'Beige Background 1',
+    file: 'favicons/Beige achtergrond 1.png',
+    themeColor: '#9d7e57',
+  },
+  {
+    id: 'dark-blue-background-check-1',
+    label: 'Dark Blue Background Check 1',
+    file: 'favicons/Donkerblauwe achtergrond - vink 1.png',
+    themeColor: '#19395a',
+  },
+  {
+    id: 'light-blue-background-check-1',
+    label: 'Light Blue Background Check 1',
+    file: 'favicons/Lichtblauwe achtergrond - vink 1.png',
+    themeColor: '#3e7da8',
+  },
+  {
+    id: 'light-blue-background-1',
+    label: 'Light Blue Background 1',
+    file: 'favicons/Lichtblauwe achtergrond 1.png',
+    themeColor: '#5a9ecb',
+  },
+  {
+    id: 'middle-blue-background-check-1',
+    label: 'Middle Blue Background Check 1',
+    file: 'favicons/Middenblauwe achtergrond - vink 1.png',
+    themeColor: '#275f8a',
+  },
+  {
+    id: 'middle-blue-background-1',
+    label: 'Middle Blue Background 1',
+    file: 'favicons/Middenblauwe achtergrond 1.png',
+    themeColor: '#2f6f9f',
+  },
 ];
 
 const linkIds = ['favicon-32', 'favicon-16', 'favicon-any', 'apple-touch-icon'];
