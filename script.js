@@ -41,6 +41,18 @@ const iconSets = [
     file: 'favicons/Middenblauwe achtergrond 1.png',
     themeColor: '#2f6f9f',
   },
+  {
+    id: 'orange-check',
+    label: 'Orange Check',
+    file: 'favicons/Oranje vink.png',
+    themeColor: '#de5a2a',
+  },
+  {
+    id: 'transparent-1',
+    label: 'Transparent 1',
+    file: 'favicons/Transparant 1.png',
+    themeColor: '#888888',
+  },
 ];
 
 const linkIds = ['favicon-32', 'favicon-16', 'favicon-any', 'apple-touch-icon'];
